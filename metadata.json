@@ -1,0 +1,6 @@
+{
+  "name": "VELORA Restaurant",
+  "description": "Modern, elegant static website for VELORA, a premium restaurant combining modern dining with rich Indian flavours.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
